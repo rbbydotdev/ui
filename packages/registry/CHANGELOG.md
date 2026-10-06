@@ -1,5 +1,11 @@
 # @shadcn/registry
 
+## 0.1.3
+
+### Patch Changes
+
+- [#12146](https://github.com/shadcn-ui/ui/pull/12146) [`232d7e2c128d94d37a6dae74e3b0e1a8f08ff6e4`](https://github.com/shadcn-ui/ui/commit/232d7e2c128d94d37a6dae74e3b0e1a8f08ff6e4) Thanks [@shadcn](https://github.com/shadcn)! - Load ts-morph only for `addRegistryItems`, so the read-only API bundles about 6 MB smaller.
+
 ## 0.1.2
 
 ### Patch Changes

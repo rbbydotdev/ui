@@ -1,5 +1,12 @@
 # shadcn
 
+## 4.21.4
+
+### Patch Changes
+
+- Updated dependencies [[`232d7e2c128d94d37a6dae74e3b0e1a8f08ff6e4`](https://github.com/shadcn-ui/ui/commit/232d7e2c128d94d37a6dae74e3b0e1a8f08ff6e4)]:
+  - @shadcn/registry@0.1.3
+
 ## 4.21.3
 
 ### Patch Changes
